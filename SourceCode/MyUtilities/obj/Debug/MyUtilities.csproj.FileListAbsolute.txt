@@ -1,0 +1,9 @@
+c:\users\death\documents\visual studio 2017\Projects\MyUtilities\MyUtilities\bin\Debug\MyUtilities.exe.config
+c:\users\death\documents\visual studio 2017\Projects\MyUtilities\MyUtilities\bin\Debug\MyUtilities.exe
+c:\users\death\documents\visual studio 2017\Projects\MyUtilities\MyUtilities\bin\Debug\MyUtilities.pdb
+c:\users\death\documents\visual studio 2017\Projects\MyUtilities\MyUtilities\obj\Debug\MyUtilities.csprojResolveAssemblyReference.cache
+c:\users\death\documents\visual studio 2017\Projects\MyUtilities\MyUtilities\obj\Debug\MyUtilities.Properties.Resources.resources
+c:\users\death\documents\visual studio 2017\Projects\MyUtilities\MyUtilities\obj\Debug\MyUtilities.csproj.GenerateResource.Cache
+c:\users\death\documents\visual studio 2017\Projects\MyUtilities\MyUtilities\obj\Debug\MyUtilities.exe
+c:\users\death\documents\visual studio 2017\Projects\MyUtilities\MyUtilities\obj\Debug\MyUtilities.pdb
+c:\users\death\documents\visual studio 2017\Projects\MyUtilities\MyUtilities\obj\Debug\MyUtilities.MainForm.resources
